@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
+
+img.boton-carrito {
+    display: inline;
+    width: 52px;
+    float: right;
+    cursor: pointer;
+}
+
+img.boton-carrito:hover {
+    transform: scale(1.5);
+    transition: .2s ease-in;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-color: rgb(245, 250, 223);
+}
+
+
+h1 {
+    color: rgb(0, 68, 7);
+    margin-left: 18px;
+    margin-bottom: 5px;
+}
+h2 {
+    color: rgb(0, 103, 10);
+    margin-left: 18px;
+    margin-top: 5px;
+}
+
+.contenedor-index {
+    background-color: white;
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between;  
+    align-items: center; 
+    flex-wrap: wrap; 
+    padding: 16px;
+    margin: 16px;
+}
+
+.contenedor-confirm {
+    background-color: rgb(187, 196, 182);
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between; 
+    align-items: center; 
+    flex-wrap: wrap; 
+    padding: 16px;
+    margin: 16px;
+}
+
+.tarjetas-index {
+    background-color: rgb(245, 250, 223);
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 16px;
+    margin: 16px;
+    width: 300px;
+}
+
+.tarjetas-seleccionadas {
+    background-color: rgb(153, 166, 140);
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 16px;
+    margin: 16px;
+    width: 300px;
+}
+
+.nombre {
+    font-size: 22px;
+    color: rgb(0, 68, 7);
+}
+
+.precio {
+    font-size: 36px;
+    color: rgb(0, 103, 10);
+}
+
+img {
+    max-width: 300px;
+}
+div.imagen {
+    max-width: 60px;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 8px;
+}
+
+.boton-seguir {
+    background-color: white;
+    font-size: large;
+    color: rgb(0, 68, 7);
+    border-radius: 15px;
+}
+
+.boton-seguir:hover {
+    background-color: rgb(106, 195, 114);
+}
+
+button {
+    background-color: rgb(0, 68, 7);
+    font-size: large;
+    color: white;
+    border-radius: 15px;
+}
+
+button:hover {
+    color: rgb(41, 41, 41);
+    background-color: rgb(255, 255, 255);
+}
+
+td {
+    font-size: 20px;
+    color: rgb(0, 68, 7);
+}
+
+td#valorPedido {
+    font-size: 26px;
+    color: rgb(0, 103, 10);
+}
+
+.footer {
+    display: flex;
+    height: 200px;
+    background-color: rgb(0, 68, 7);
+    font-size: small;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+}

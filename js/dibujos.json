@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "nombre": "Batman",
+      "precio": 6000,
+      "imagen": "images/batman.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Lobo",
+      "precio": 6000,
+      "imagen": "images/lobo.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Flash",
+      "precio": 5000,
+      "imagen": "images/flash.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Rambo",
+      "precio": 4000,
+      "imagen": "images/rambo.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "The Thing",
+      "precio": 6000,
+      "imagen": "images/thething.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Jhon Wick",
+      "precio": 3000,
+      "imagen": "images/jhonwick.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Ventress",
+      "precio": 4000,
+      "imagen": "images/ventress.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "The Punisher",
+      "precio": 3000,
+      "imagen": "images/punisher.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Loki",
+      "precio": 3000,
+      "imagen": "images/loki.jpg"
+    }
+  ]
